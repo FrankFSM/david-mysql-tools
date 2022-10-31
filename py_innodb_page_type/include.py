@@ -33,7 +33,8 @@ innodb_page_type={
 	'000a':u'Uncompressed BLOB Page',
 	'000b':u'1st compressed BLOB Page',
 	'000c':u'Subsequent compressed BLOB Page',
-	'45bf':u'B-tree Node'
+	'45bf':u'B-tree Node',
+	'45bd':u'SDI Index page'
 	}
 	
 innodb_page_direction={
